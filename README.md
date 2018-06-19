@@ -8,6 +8,20 @@ Hibernate validator has been used to provide basic form validation...
 
 Other side, I have an IOS chatting app which point to the same realtime database -Firebase which enables a chat channel betwen mobile and web app.
 
+# Technology Stack:
+
+Spring MVC 4
+Java 8
+Firebase
+Hibernate validator
+Hibernate for database
+Bootstrap basic
+Apache Tomcat 8
+
+
+
+
+
 
 
 
